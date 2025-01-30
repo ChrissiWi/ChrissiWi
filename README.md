@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChrissiWi
-- 👀 I’m interested in python and testing.
+- 👀 I’m interested in C#, Python and testing.
 
 
 <!---
