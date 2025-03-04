@@ -1,2 +1,2 @@
-- 👋 Hi, I’m ChrissiWi
+- 👋 Hi, I’m ChrissiWi.
 - 👀 I’m interested in C#, Python and Testing.
